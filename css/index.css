@@ -1,0 +1,17 @@
+.container {
+    background: rgb(255, 120, 0);
+    display: flex;
+    height: 400px;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-item {
+    background-color: rgb(200, 255, 50);
+    line-height: 50px;
+    margin: 10px;
+    text-align: center;
+    font-weight: bold;
+}
